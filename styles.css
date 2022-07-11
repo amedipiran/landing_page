@@ -110,6 +110,11 @@ button:hover{
     max-height: 10rem;
     border: 2px solid #3882f6;
     border-radius: 0.8rem;
+    filter: drop-shadow(5px 0px 5px black);
+}
+
+.img-container p {
+    padding-top: 1rem;
 }
 
 .img {
